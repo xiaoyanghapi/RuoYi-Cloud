@@ -1,4 +1,4 @@
-1. nacos安装：
+nacos安装：
 https://nacos.io/zh-cn/docs/quick-start.html
 wget https://github.com/alibaba/nacos/releases/download/2.0.3/nacos-server-2.0.3.zip
 unzip nacos-server-2.0.3.zip
@@ -6,7 +6,7 @@ cd nacos/bin
 sh startup.sh -m standalone
 
 conf/application.properties 配置：
-# db mysql
+配置mysql
 spring.datasource.platform=mysql
 db.num=1
 db.url.0=jdbc:mysql://localhost:3306/ry-config?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=UTC
@@ -50,7 +50,6 @@ cd ruoyi-ui
 npm install --registry=https://registry.npm.taobao.org
 npm run dev
 (http://localhost:80) 默认账户/密码 admin/admin123）
-
 
 
 ruoyi-monitor用户名密码：ruoyi/123456
