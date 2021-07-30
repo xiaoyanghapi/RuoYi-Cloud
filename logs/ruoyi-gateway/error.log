@@ -1,0 +1,6 @@
+00:19:38.459 [boundedElastic-7] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/schedule/job/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-job"
+00:56:48.887 [boundedElastic-1] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/schedule/job/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-job"
+01:16:26.309 [boundedElastic-12] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/schedule/v2/api-docs,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-job"
+01:24:20.219 [boundedElastic-1] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/schedule/v2/api-docs,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-job"
+01:27:44.233 [boundedElastic-17] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/schedule/job/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-job"
+01:30:03.025 [boundedElastic-7] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/schedule/job/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-job"
